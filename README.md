@@ -3,11 +3,12 @@
 
 
 <h2>Description</h2>
-<b>This project consists of utilizing the open source tools to do basic email investigations to determine if an email is malicious or legit.
+This project consists of utilizing the open source tools to do basic email investigations to determine if an email is malicious or legit.
 <br />
 
-<b> Findings</b>
-- [Short summary of investigation](https://1drv.ms/w/s!Ai9Jkhg_z_WvuBGfUx74XRMo9fO6?e=ccebKR) <br />
+<h2>Findings</h2>
+
+- <b>[Short summary of investigation](https://1drv.ms/w/s!Ai9Jkhg_z_WvuBGfUx74XRMo9fO6?e=ccebKR)</b>
 
 
 <h2>Utilities Used</h2>
